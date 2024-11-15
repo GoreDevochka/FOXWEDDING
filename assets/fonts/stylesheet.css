@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Coronet LT Std';
+    src: url('CoronetLTStd-Bold.eot');
+    src: local('Coronet LT Std Bold'), local('CoronetLTStd-Bold'),
+        url('CoronetLTStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CoronetLTStd-Bold.woff2') format('woff2'),
+        url('CoronetLTStd-Bold.woff') format('woff'),
+        url('CoronetLTStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Coronet LT Std';
+    src: url('CoronetLTStd-Regular.eot');
+    src: local('Coronet LT Std Regular'), local('CoronetLTStd-Regular'),
+        url('CoronetLTStd-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CoronetLTStd-Regular.woff2') format('woff2'),
+        url('CoronetLTStd-Regular.woff') format('woff'),
+        url('CoronetLTStd-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
